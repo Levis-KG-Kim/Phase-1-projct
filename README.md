@@ -47,7 +47,7 @@
 This project uses the following open source packages:
 
 - [Jupyter Notebook](http://nb.anaconda.cloud/jupyterhub/)
-- [Tableau Public]([https://public.tableau.com/authoring/])
+- [Tableau Public]([https://public.tableau.com/app/profile/levis.gichuhi/viz/AviationIndustryDashboard/Dashboard1])
 - [Microsoft PowerPoint]([https://microsoft.com/en-us/microsoft-365/powerpoint/])
 
 ## License
