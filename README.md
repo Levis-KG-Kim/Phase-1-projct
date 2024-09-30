@@ -40,7 +40,7 @@
 * Data visualization
 * Drawing insights
 * Answering relevant questions from the data
-* Preparing an interactive dashboard for other stakeholders
+* Preparing an interactive dashboard for other stakeholders-[Tableau Public](https://public.tableau.com/app/profile/levis.gichuhi/viz/AviationIndustryDashboard/Dashboard1)
 * Presenting the data
 
 ## Credits
